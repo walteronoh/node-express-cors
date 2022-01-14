@@ -1,0 +1,25 @@
+[{
+        "name": "user1",
+        "id": "1",
+        "city": "Nairobi",
+        "profession": "Plumber"
+    },
+    {
+        "name": "user2",
+        "id": "2",
+        "city": "Kampala",
+        "profession": "Teacher"
+    },
+    {
+        "name": "user3",
+        "id": "3",
+        "city": "Dodoma",
+        "profession": "Tutor"
+    },
+    {
+        "name": "user4",
+        "id": "4",
+        "city": "Accra",
+        "profession": "Farmer"
+    }
+]

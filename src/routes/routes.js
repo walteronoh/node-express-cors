@@ -7,4 +7,8 @@ router.get("/", function(req, res) {
     res.send(users);
 });
 
+router.post("/add", function(req, res) {
+    res.send("User added successfully");
+})
+
 module.exports = router;
